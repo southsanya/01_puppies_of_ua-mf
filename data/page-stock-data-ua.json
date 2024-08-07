@@ -1,0 +1,30 @@
+{
+    "main" : {
+        "title" : "ВАШЕ НОВЕ ЩАСТЯ ЧЕКАЄ НА ВАС!",
+        "button" : "ЗАМОВИТИ ЦУЦЕНЯ"
+    },
+    "items" : {
+        "title" : "Вільні цуценята"
+    },
+    "garant" : {
+        "title" : "Ми гарантуємо:"
+    },
+    "feedback" : {
+        "title" : "Відгуки наших клієнтів"
+    },
+    "footer" : {
+        "title" : "Приєднуйтесь до нас!",
+        "titletwo" : "Працюємо по всій Україні!",
+        "subtitletwo" : "...А також в Румунії 🇷🇴, Угорщині 🇭🇺, <br> Словаччині 🇸🇰, Австрії 🇦🇹,<br> Чехії 🇨🇿, Німеччині 🇩🇪, <br> Голландії 🇳🇱, Бельгії 🇧🇪, <br> Данії 🇩🇰, Словенії 🇸🇮, <br> Італії 🇮🇹, Франції 🇫🇷, <br> Іспанії 🇪🇸, Португалії 🇵🇹 <br>та Великобританії 🏴󠁧󠁢󠁥󠁮󠁧󠁿!"
+    },
+    "links" : {
+        "in" : "https://www.instagram.com/puppies_of_ukraine_2?igsh=b3pqMDM5MHlxazh4&utm_source=qr",
+        "fb" : "https://www.facebook.com/profile.php?id=100093094809382",
+        "tg" : "https://t.me/puppies_of_ukraine",
+        "tt" : "https://www.tiktok.com/@puppies_of_ukraine?_t=8odjU9BaqaE&_r=1",
+        "pn" : [
+            "+380675852099",
+            "+380968113439"
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Exclusive Boy",
+        "description": "Maltipoo boy with an exclusive color, 2.5 months old, weight will be 3 kg. Has two vaccinations, vaccinated with two vaccines, a CHIP, and an international passport.",
+        "price": "24999 UAH",
+        "image": "./images/2.png"
+    },
+    {
+        "title": "Amazing Girl",
+        "description": "A small fluffy ball of happiness: this cute Maltipoo puppy will bring you a sea of joy, affection, and warmth, always be there and lift your spirits.",
+        "price": "26999 UAH",
+        "image": "./images/3.png"
+    },
+    {
+        "title": "Best Companion",
+        "description": "The perfect family companion: Maltipoo - loyal, loving, and always ready to play! A great choice for a family looking for a faithful friend.",
+        "price": "23999 UAH",
+        "image": "./images/4.png"
+    },
+    {
+        "title": "Fluffy Angel",
+        "description": "Fluffy angel: this Maltipoo will charm you with its cute look, gentle character, and ability to give love every day.",
+        "price": "27999 UAH",
+        "image": "./images/3.png"
+    },
+    {
+        "title": "Little Sunshine",
+        "description": "Little sunshine: this Maltipoo puppy radiates warmth, joy, and is always ready to lift your spirits with its cheerful and playful character.",
+        "price": "23499 UAH",
+        "image": "./images/2.png"
+    },
+    {
+        "title": "Friend for Kids",
+        "description": "Friend for kids: Maltipoo is a great choice for a family with children, it is gentle, friendly, and always ready to play.",
+        "price": "24499 UAH",
+        "image": "./images/3.png"
+    },
+    {
+        "title": "Furry Optimist",
+        "description": "Furry optimist: Maltipoo - small, but incredibly energetic, a cheerful companion who will make your days brighter and happier.",
+        "price": "29999 UAH",
+        "image": "./images/4.png"
+    }
+]

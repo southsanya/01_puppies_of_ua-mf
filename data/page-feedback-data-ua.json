@@ -1,0 +1,75 @@
+[
+    {
+        "nickname": "insta_user1",
+        "text": "Такий вже серйозний",
+        "logo": "./data/page-feedback-data-images/feedback-1-data-images/1.png",
+        "image": "./data/page-feedback-data-images/feedback-1-data-images/2.png"
+    },
+    {
+        "nickname": "insta_user2",
+        "text": "Грайливе маля",
+        "logo": "./data/page-feedback-data-images/feedback-2-data-images/1.png",
+        "image": "./data/page-feedback-data-images/feedback-2-data-images/2.png"
+    },
+    {
+        "nickname": "insta_user3",
+        "text": "Такий вже серйозний",
+        "logo": "./data/page-feedback-data-images/feedback-3-data-images/1.png",
+        "image": "./data/page-feedback-data-images/feedback-3-data-images/2.png"
+    },
+    {
+        "nickname": "insta_user4",
+        "text": "4",
+        "logo": "./data/page-feedback-data-images/feedback-4-data-images/1.png",
+        "image": "./data/page-feedback-data-images/feedback-4-data-images/2.png"
+    },
+    {
+        "nickname": "insta_user5",
+        "text": "5",
+        "logo": "./data/page-feedback-data-images/feedback-5-data-images/1.png",
+        "image": "./data/page-feedback-data-images/feedback-5-data-images/2.png"
+    },
+    {
+        "nickname": "insta_user6",
+        "text": "6",
+        "logo": "./data/page-feedback-data-images/feedback-6-data-images/1.png",
+        "image": "./data/page-feedback-data-images/feedback-6-data-images/2.png"
+    },
+    {
+        "nickname": "insta_user7",
+        "text": "Такий вже серйозний",
+        "logo": "./data/page-feedback-data-images/feedback-7-data-images/1.png",
+        "image": "./data/page-feedback-data-images/feedback-7-data-images/2.png"
+    },
+    {
+        "nickname": "insta_user8",
+        "text": "Грайливе маля",
+        "logo": "./data/page-feedback-data-images/feedback-8-data-images/1.png",
+        "image": "./data/page-feedback-data-images/feedback-8-data-images/2.png"
+    },
+    {
+        "nickname": "insta_user9",
+        "text": "Такий вже серйозний",
+        "logo": "./data/page-feedback-data-images/feedback-9-data-images/1.png",
+        "image": "./data/page-feedback-data-images/feedback-9-data-images/2.png"
+    },
+    {
+        "nickname": "insta_user10",
+        "text": "4",
+        "logo": "./data/page-feedback-data-images/feedback-10-data-images/1.png",
+        "image": "./data/page-feedback-data-images/feedback-10-data-images/2.png"
+    },
+    {
+        "nickname": "insta_user11",
+        "text": "5",
+        "logo": "./data/page-feedback-data-images/feedback-11-data-images/1.png",
+        "image": "./data/page-feedback-data-images/feedback-11-data-images/2.png"
+    },
+    {
+        "nickname": "insta_user12",
+        "text": "6",
+        "logo": "./data/page-feedback-data-images/feedback-12-data-images/1.png",
+        "image": "./data/page-feedback-data-images/feedback-12-data-images/2.png"
+    }
+
+]

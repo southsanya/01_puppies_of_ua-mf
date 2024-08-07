@@ -1,0 +1,20 @@
+{
+    "main" : {
+        "title" : "YOUR NEW HAPPINESS IS WAITING FOR YOU!",
+        "button" : "ORDER A PUPPY"
+    },
+    "items" : {
+        "title" : "Free puppies"
+    },
+    "garant" : {
+        "title" : "We guarantee:"
+    },
+    "feedback" : {
+        "title" : "Reviews of our customers"
+    },
+    "footer" : {
+        "title" : "Join us!",
+        "titletwo" : "We work all over Ukraine!",
+        "subtitletwo" : "..And also in Romania 🇷🇴, Hungary 🇭🇺, <br> Slovakia 🇸🇰, Austria 🇦🇹,<br> Czech Republic 🇨🇿, Germany 🇩🇪, <br> Holland 🇳🇱, Belgium 🇧🇪, <br> Denmark 🇩🇰, Slovenia 🇸🇮, <br> Italy 🇮🇹, France 🇫🇷, <br> Spain 🇪🇸, Portugal 🇵🇹 <br>and Great Britain 🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+    }
+}
