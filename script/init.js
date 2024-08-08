@@ -9,18 +9,29 @@ import stockDataEN from '../data/page-stock-data-en.json' with { type:'json' }
 
 let itemData , garantData , feedbackData, stockData = {}
 // INIT
-
-if (window.location.pathname.endsWith('index-ua.html')) {
+itemData = itemDataUA
+garantData = garantDataUA
+feedbackData = feedbackDataUA
+stockData = stockDataUA
+let langBtn = document.querySelector('.lang-sw')
+const searchParams = new URLSearchParams(window.location.search);
+console.log(searchParams.get('lang'))
+if (searchParams.get('lang') == 'ua') {
     itemData = itemDataUA
     garantData = garantDataUA
     feedbackData = feedbackDataUA
     stockData = stockDataUA
+    langBtn.src = "./images/lang_sw_ua.png"
+    document.querySelector('.lang-sw-c').href = '?lang=en'
 
-} else if (window.location.pathname.endsWith('index-en.html')) {
+} else if (searchParams.get('lang') == 'en') {
     itemData = itemDataEN
     garantData = garantDataEN
     feedbackData = feedbackDataEN
     stockData = stockDataEN
+    langBtn.src = "./images/lang_sw_en.png"
+    langBtn.style.width = '50px'
+    document.querySelector('.lang-sw-c').href = '?lang=ua'
 }
 
 // MAINPAGE
@@ -102,6 +113,6 @@ footerSubtitleTwo.innerHTML = stockData.footer.subtitletwo
 let footerLinks = document.querySelectorAll('.page-f-c-b-c-item')
 footerLinks.forEach((item) => {
     item.addEventListener('click', () => {
-        
+
     })
 })
