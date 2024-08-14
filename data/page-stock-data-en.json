@@ -16,5 +16,9 @@
         "title" : "Join us!",
         "titletwo" : "We work all over Ukraine!",
         "subtitletwo" : "..And also in Romania 🇷🇴, Hungary 🇭🇺, <br> Slovakia 🇸🇰, Austria 🇦🇹,<br> Czech Republic 🇨🇿, Germany 🇩🇪, <br> Holland 🇳🇱, Belgium 🇧🇪, <br> Denmark 🇩🇰, Slovenia 🇸🇮, <br> Italy 🇮🇹, France 🇫🇷, <br> Spain 🇪🇸, Portugal 🇵🇹 <br>and Great Britain 🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+    },
+    "burger" : {
+        "langname" : "English",
+        "langico" : "./images/lang_sw_en.png"
     }
 }

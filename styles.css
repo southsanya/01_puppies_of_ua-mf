@@ -13,6 +13,11 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Kyiv Type Titling';
+    text-decoration: none;
+}
+a {
+    text-decoration: none;
+    color: black;
 }
 .serif {
     font-family: 'Kyiv Type Serif';
@@ -29,6 +34,10 @@ body {
 }
 .page-arrow {
     transform: scale(1.2);
+}
+.lang-sw-c img {
+    border-radius: 5px;
+    overflow: hidden;
 }
 
 
@@ -233,6 +242,8 @@ body {
     .action-form-button {
         min-width: 274px;
         min-height: 94px;
+        text-align: center;
+        text-decoration: none;
         border: none;
         border-radius: 7px;
         background-color: rgba(241, 227, 208, 0.5);

@@ -15,7 +15,6 @@ feedbackData = feedbackDataUA
 stockData = stockDataUA
 let langBtn = document.querySelector('.lang-sw')
 const searchParams = new URLSearchParams(window.location.search);
-console.log(searchParams.get('lang'))
 if (searchParams.get('lang') == 'ua') {
     itemData = itemDataUA
     garantData = garantDataUA

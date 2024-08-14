@@ -6,11 +6,14 @@ import feedbackDataUA from '../data/page-feedback-data-ua.json' with { type:'jso
 import feedbackDataEN from '../data/page-feedback-data-en.json' with { type:'json' }
 
 let itemData, garantData, feedbackData = {}
-if (window.location.pathname.endsWith('index-ua.html')) {
     itemData = itemDataUA
     garantData = garantDataUA
     feedbackData = feedbackDataUA
-} else if (window.location.pathname.endsWith('index-en.html')) {
+if (window.location.pathname.endsWith('lang=ua')) {
+    itemData = itemDataUA
+    garantData = garantDataUA
+    feedbackData = feedbackDataUA
+} else if (window.location.pathname.endsWith('lang=en')) {
     itemData = itemDataEN
     garantData = garantDataEN
     feedbackData = feedbackDataEN
