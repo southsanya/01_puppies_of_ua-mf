@@ -26,5 +26,9 @@
             "+380675852099",
             "+380968113439"
         ]
+    },
+    "burger" : {
+        "langname" : "Ukrainian",
+        "langico" : "./images/lang_sw_ua.png"
     }
 }

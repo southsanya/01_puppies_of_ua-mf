@@ -14,6 +14,9 @@ garantData = garantDataUA
 feedbackData = feedbackDataUA
 stockData = stockDataUA
 let langBtn = document.querySelector('.lang-sw')
+let brgLangA = document.querySelector('.brg-switcher-a')
+let brgLangI = document.querySelector('.brg-switcher-i')
+let brgLangN = document.querySelector('.brg-switcher-n')
 const searchParams = new URLSearchParams(window.location.search);
 if (searchParams.get('lang') == 'ua') {
     itemData = itemDataUA
@@ -21,6 +24,9 @@ if (searchParams.get('lang') == 'ua') {
     feedbackData = feedbackDataUA
     stockData = stockDataUA
     langBtn.src = "./images/lang_sw_ua.png"
+    brgLangA.href = '?lang=en'
+    brgLangI.src = stockData.burger.langico
+    brgLangN.textContent = stockData.burger.langname
     document.querySelector('.lang-sw-c').href = '?lang=en'
 
 } else if (searchParams.get('lang') == 'en') {
@@ -28,6 +34,9 @@ if (searchParams.get('lang') == 'ua') {
     garantData = garantDataEN
     feedbackData = feedbackDataEN
     stockData = stockDataEN
+    brgLangA.href = '?lang=ua'
+    brgLangI.src = stockData.burger.langico
+    brgLangN.textContent = stockData.burger.langname
     langBtn.src = "./images/lang_sw_en.png"
     langBtn.style.width = '50px'
     document.querySelector('.lang-sw-c').href = '?lang=ua'
@@ -102,6 +111,7 @@ burgerButton.addEventListener('click', () => {
 
     }
 })
+
 // FOOTER 
 let footerTitleOne = document.querySelector('.page-f-c-b-t-text')
 footerTitleOne.textContent = stockData.footer.title
